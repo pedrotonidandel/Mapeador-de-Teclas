@@ -1,2 +1,2 @@
 # Mapeador-de-Teclas
-Mapeador de Teclas em AutoHotKey
+Software que atualiza as teclas F1-F6 para o que você quiser escrever
